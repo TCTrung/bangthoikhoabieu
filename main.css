@@ -1,0 +1,24 @@
+table {
+    height: 150px;
+    width: 600px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#h1 {
+    font-size: 26px;
+    color: blue;
+    text-align: center;
+}
+.aa {
+    background-color: darkorange;
+    border: 1px solid black;
+}
+.aw {
+    border: 1px solid black;
+}
+.ad {color: blue;
+    text-align: left;
+}
+.ax {color: blue;
+    text-align: right;
+}
